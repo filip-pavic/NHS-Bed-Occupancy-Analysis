@@ -4,14 +4,14 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Executive Summary](#1-executive-summary)
-3. [Context & Objectives](#2-context--objectives)
-4. [Dashboard](#6-dashboard)
-5. [Methodology & Data Prep](#3-methodology--data-prep)
-6. [DAX Logic & Measures](#4-dax-logic--measures)
-7. [Tools & Skills Applied](#5-tools--skills-applied)
-8. [Key Insights](#7-key-insights)
-9. [Dataset Sources](#8-data-sources)
+2. [Executive Summary](#2-executive-summary)
+3. [Context & Objectives](#3-context--objectives)
+4. [Dashboard](#4-dashboard)
+5. [Methodology & Data Prep](#5-methodology--data-prep)
+6. [DAX Logic & Measures](#6-dax-logic--measures)
+7. [Tools & Skills Applied](#7-tools--skills-applied)
+8. [Key Insights](#8-key-insights)
+9. [Dataset Sources](#9-data-sources)
 
 You may access interractive Dashboard here:
 https://app.powerbi.com/view?r=eyJrIjoiZGRjN2YxMTItMThhZC00MzljLWI1ZTMtNWJmMjMzYTA2OTA3IiwidCI6ImQ5NzRiNGRmLWVlYzItNDMzZS1hOTE4LTNmZTE4NDEyNzM1ZiIsImMiOjh9
