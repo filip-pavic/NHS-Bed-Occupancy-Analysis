@@ -1,4 +1,5 @@
 # NHS Bed Capacity Benchmarking Dashboard | GSTT vs London Peer Trusts
+### I chose this project to apply my data analysis training to a sector I care about which is healthcare and healthcare operations. Also, this project served to practice translating a real NHS safety standard (the 85% occupancy threshold) into a working analytical model rather than a toy dataset.
 
 ---
 
